@@ -1,4 +1,5 @@
-QoE Testbed for spherical video
+#QoE Testbed for spherical video
+Welcome to the repository for extra content concerning "Gaze-aware (or Foveated) Content Delivery for VR(https://mega.nz/#F!FuwCzAQA!6_satN2CuiImlUiFYLdykw).
 This repository contains the QoE testbed for spherical video made for the Smart Eye-tracking Enabled Networking (SEEN) project, a joint project by KTH, Tobii and Ericsson.
 
 The testbed allows playing spherical videos as if they were being streamed through SEEN's proposed optimized streaming system. The system will stream tiled videos, using eye-tracking to select which tiles should be sent on a higher quality. This testbed simulates this streaming locally, in order to study how it is subjectively perceived by users. After playing a video it generates files that can be used to calculate how much data would need to be sent through the network in a full system.
